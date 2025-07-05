@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJS, HTML5, CSS, MySQL, MongoDB, Firebase, JavaScript**
 
-- 📫 How to reach me **drashti.navadiya@dal.ca**
+- 📫 How to reach me **navadiyadrashti8049@gmail.com**
 
 - ⚡ Fun fact about me **Whether it's diving into the intricacies of algorithms, mastering the art of web development, or exploring the potential of emerging tech like AI, I'm always eager to expand my knowledge and skill set. When I'm not immersed in lines of code or tinkering with new gadgets, you'll likely find me brainstorming my next big project or attending tech meetups to stay abreast of industry trends. Let's embrace the ever-evolving world of technology together!**
 
